@@ -1,7 +1,7 @@
 # CSC 4035 Lab 5: UI Frameworks in Practice
 ## Group Members:
-- [Your Name]
-- [Partner's Name (if any)]
+- [Dennis Malichi 2021384811]
+- [Mwiza marie mfuni 2020060221]
 
 ## Project Summary
 ### Bootstrap Demo
